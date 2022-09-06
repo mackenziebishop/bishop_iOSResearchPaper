@@ -1,1 +1,1 @@
-# bishop_iOSResearchPaper
+# iOSResearchPaper
