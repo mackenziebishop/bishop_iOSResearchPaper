@@ -10,8 +10,10 @@ Possible topics:
 * Security and privacy issues in IoT devices
 * Mobile app development: Apple vs Android?
 * Banking apps and security (Could also research apps like Paypal and Venmo??)
-* Smart surfaces / smart homes (pros and cons / environmental impact??) </br>
-Topic chosen: 
+* Smart surfaces / smart homes (pros and cons / environmental impact??) 
+</br>
+Topic chosen:
+
 ### Final Draft
 ### Bibliography
 #### Resources
