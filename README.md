@@ -11,5 +11,5 @@ Possible topics:
 * Banking apps and security (Could also research apps like Paypal and Venmo??)
 * Smart surfaces / smart homes (pros and cons / environmental impact??)
 ### Bibliography
-### Final draft of research paper
+### Final Draft
 ### Research Images
