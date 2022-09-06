@@ -1,6 +1,6 @@
 # iOSResearchPaper
 ## Overleaf
-Syncing Github with Overleaf costs some money, so you can find my research projects [here](https://www.overleaf.com/project).
+Syncing Github with Overleaf costs money, you can find my research projects [here](https://www.overleaf.com/project).
 ## Research Paper
 ### Outline 
 Possible topics:
