@@ -12,4 +12,4 @@ Possible topics:
 * Smart surfaces / smart homes (pros and cons / environmental impact??)
 ### Bibliography
 ### Final draft of research paper
-### Resources
+### Research Images
