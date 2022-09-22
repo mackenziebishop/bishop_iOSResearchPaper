@@ -12,9 +12,9 @@ Possible topics:
 * Banking apps and security (Could also research apps like Paypal and Venmo??)
 * Smart surfaces / smart homes (pros and cons / environmental impact??) 
 </br>
-Topic chosen:
+Topic chosen: Security and privacy issues in mobile edge computing
 
 ### Final Draft
 ### Bibliography
-#### Resources
+### Resources
 ### Research Images
